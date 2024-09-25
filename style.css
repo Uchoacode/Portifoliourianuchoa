@@ -725,7 +725,7 @@ span{
     padding-left: 37px;
   }
   .timeline-dot {
-    left: 0;
+    left: 0.8;
   }
   .services {
     padding-bottom: 7rem;

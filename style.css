@@ -272,7 +272,7 @@ span{
   }
   81%,
   100%{
-    content: "Softwear Tester";
+    content: "Software Tester";
   }
 }
 
@@ -878,3 +878,4 @@ span{
 .responsive-icon:hover {
   box-shadow: 0 0 25px var(--main-color), 0 0 50px var(--main-color), 0 0 100px var(--main-color);
 }
+
